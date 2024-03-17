@@ -3,7 +3,7 @@ import React from 'react'
 import Image from 'next/image'
 type ButtonProps={
     type:'button'|'submit';
-    varient:'btn_dark_green';
+    varient:'btn_dark_green'|"btn_green"|"btn_white_text";
     title:string;
     icon?:string
 }
