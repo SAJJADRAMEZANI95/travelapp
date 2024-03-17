@@ -25,7 +25,7 @@ const Navbar = () => {
         <Button
           type="button"
           varient="btn_dark_green"
-          title="Loged in"
+          title="Login"
           icon="/user.svg"
         />
       </div>
